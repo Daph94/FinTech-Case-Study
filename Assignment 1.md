@@ -1,9 +1,10 @@
 # Unit 1 Homework Assignment: FinTech Case Study
 ## Overview and Origin
-* **Beanworks**
+
 ![Beanworks](https://www.bctechnology.com/tmp/news/D41D8CD98F00B204E9800998ECF8427E73807B18E716092BB5D51861D6C9BF29.jpg)
 
 * When was the company incorporated?
+
   * *2012*
 * Who are the founders of the company? 
   * *Catherine Dahl, Cory Cleaver, Reza Sanaie, Tracy Thompson*
@@ -19,11 +20,16 @@
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
   * *They target small, medium and large size companies. Basically, any company that has expenses every month, can benefit from this automation.*
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+![](Images/Capabilities.png)
+
   * *Beanworks can integrate seamlessly with the accounting software of the company. There is no time wasted importing and exporting data. Beanworks imports lists from the accounting software so they are available for coding right away. Transactions from the accounting software such as payments and purchase order feeds can also be imported. Output files are configured to be imported back to the accounting software—meaning no double entry.*
 
      *Another advantage is that Beanworks partnered with Sage back in November 2016. Sage, a market leader for integrated accounting, payroll and payment systems, now offers Beanworks as their official AP automation provider in North America.*
+
 * Which technologies are they currently using, and how are they implementing them?
   * *Beanworks uses **SmartCoding technology** for invoices. Smart coding eliminates the need for a human to manually code invoices when there is no purchase order (PO) created to match to that invoice. Using a new state-of-the-art machine learning algorithm, smart coding technology automatically searches and analyzes historical data and invoice coding templates to recommend the proper general ledger (GL) coding of non-PO invoices. These invoices would otherwise get trapped in a time-consuming, manual workflow. By leveraging and learning from company financial data, the technology is able to continuously improve the accuracy of its recommendations – increasing efficiency, productivity and accuracy of invoice handling.*
+
 
     *Smart coding also helps companies collect and aggregate more financial data for the future by automating processing across another invoice format.*
         
