@@ -21,7 +21,7 @@
   * *They target small, medium and large size companies. Basically, any company that has expenses every month, can benefit from this automation.*
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-![](Images/Capabilities.png)
+![](.//Images/Capabilities.png)
 
   * *Beanworks can integrate seamlessly with the accounting software of the company. There is no time wasted importing and exporting data. Beanworks imports lists from the accounting software so they are available for coding right away. Transactions from the accounting software such as payments and purchase order feeds can also be imported. Output files are configured to be imported back to the accounting software—meaning no double entry.*
 
